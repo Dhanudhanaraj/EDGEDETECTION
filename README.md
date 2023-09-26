@@ -26,7 +26,10 @@ Display the filtered image using plot and imshow.
 
 
 ## Program:
-
+```
+DEVELOPED BY:DHANUMALYA D
+REGISTER NUMBER:212222230030
+```
 
 # Import the packages
 ```
